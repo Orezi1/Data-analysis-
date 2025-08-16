@@ -1,2 +1,2 @@
 # Social Media Analytics-
-“Portfolio of Excel projects (data cleaning, pivot tables, dashboards)”
+End-to-end Excel project: Social media posts analytics (data cleaning, pivot tables, dashboards).
